@@ -3,7 +3,7 @@ layout: post
 title: Van értelme klímasemlegesnek lenni?
 tags: [klíma]
 categories: [vélemény]
-date: 2020.02.17
+datum: 2020.02.17
 ---
 
 A közéletben mostanában nagyon menő lett a karbonsemlegesség eléréséről beszélni. A koncepció egyszerűnek tűnik: 20-30 év múlva X ország vagy Y város már nem fog kibocsátani semmilyen üvegházhatású gázt, hiszen minden energiát megújulókkal állítunk elő és a közlekedés is elektromos járművekkel fog megvalósulni. Az átlag hírolvasó embernek ebből arra következtethet, hogy már csak arról szól a vita, hogy ezt mikorra érjük el, már 2040-re vagy „csak” 2050-re?
