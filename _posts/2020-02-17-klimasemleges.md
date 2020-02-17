@@ -10,7 +10,7 @@ excerpt: A közéletben mostanában nagyon menő lett a karbonsemlegesség elér
 
 A közéletben mostanában nagyon menő lett a karbonsemlegesség eléréséről beszélni. A koncepció egyszerűnek tűnik: 20-30 év múlva X ország vagy Y város már nem fog kibocsátani semmilyen üvegházhatású gázt, hiszen minden energiát megújulókkal állítunk elő és a közlekedés is elektromos járművekkel fog megvalósulni. Az átlag hírolvasó embernek ebből arra következtethet, hogy már csak arról szól a vita, hogy ezt mikorra érjük el, már 2040-re vagy „csak” 2050-re?
 
-Sajnos ennek az égvilágon semmi értelme.
+Sajnos ennek az égvilágon semmi értelme. <!--more-->
 
 A globális ellátói hálózatok világában teljesen értelmetlen egy adott ország vagy régió klímasemlegességéről beszélni. Egyszerű belátni, hogy amíg világszinten nincs megoldva a kérdés, addig a kereskedelem miatt mindig lesz olyan termék, aminek a gyártásához, szállításához kibocsátás fog tapadni. Ma már nem létezik teljes önellátás sehol: még Észak-Koreának is szüksége van egy csomó mindenre, amit külföldről importál.
 
