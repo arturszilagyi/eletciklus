@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Van értelme klímasemlegesnek lenni?
 tags: [klima]
 date: 2020-07-23  23:15:00 +0100
