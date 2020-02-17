@@ -1,4 +1,4 @@
-Van értelme klímasemlegesnek lenni?
+#Van értelme klímasemlegesnek lenni?
 
 A közéletben mostanában nagyon menő lett a karbonsemlegesség eléréséről beszélni. A koncepció egyszerűnek tűnik: 20-30 év múlva X ország vagy Y város már nem fog kibocsátani semmilyen üvegházhatású gázt, hiszen minden energiát megújulókkal állítunk elő és a közlekedés is elektromos járművekkel fog megvalósulni. Az átlag hírolvasó embernek ebből arra következtethet, hogy már csak arról szól a vita, hogy ezt mikorra érjük el, már 2040-re vagy „csak” 2050-re?
 Sajnos ennek az égvilágon semmi értelme.
@@ -9,4 +9,3 @@ Fentiek alapján persze el lehet játszani a gondolatkísérlettel, hogy mi lenn
 Újabb gondolatkísérlet: Magyarország közvetlenül nagyjából 50 millió tonna üvegházhatású gázt bocsát ki évente a légkörbe. Pár tíz milliárd forintból a fejlődő országokban ennyi kibocsátást simán meg tudnak takarítani, míg nálunk lehet, hogy a többszáz- vagy több ezerszeresébe kerülne...
 Mindenesetre nagyon úgy tűnik, hogy ezt gondot az emberiségnek együtt, összefogva kell megoldania: vagy mindenki karbonsemleges lesz, vagy senki. Nincs harmadik út. Nyilván az már politikai és gazdasági kérdés, hogy ezt hogyan oldjuk meg.
 Az tényleg szuper, hogy a közéleti szereplők végre elkezdett ezzel a témával komolyan foglalkozni. Ahogy a “nulla hulladék” vagy a műanyagmentesség is lehet egy szép távlati cél, a karbonsemlegesség is egy nemes vízió, de helyi szinten nincs értelme céldátumhoz kötni, bármennyire is vonzó lehet. Ennél sokkal szimpatikusabb a “klímabarát” települések vagy ország elnevezés: tegyünk meg mindent, ami tőlünk telik, de ne ész nélkül... 
-
