@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Életciklus blog
 description: A környezeti lábnyomunkról közérthetően
+excerpt_separator: <!--more-->
