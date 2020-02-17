@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: post
 title: Van értelme klímasemlegesnek lenni?
-tags: [klima]
-date: 2020-07-23  23:15:00 +0100
+tags: [klíma]
+categories: [vélemény]
+date: 2020.02.17
 ---
 
 # Van értelme klímasemlegesnek lenni?
