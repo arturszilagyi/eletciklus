@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Van értelme klímasemlegesnek lenni?
-tags: [klíma]
+tags: [klima]
 categories: [velemeny]
 author: [Szilágyi Artúr]
 datum: 2020.02.17
